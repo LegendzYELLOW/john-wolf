@@ -1960,3 +1960,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.01-06.02.55:755][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2025.02.01-06.02.55:762][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2025.02.01-06.02.55:825][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.02.01-06.03.58:950][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.01-06.03.58:972][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.02.01-06.03.58:979][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.02.01-06.03.58:979][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.02.01-06.03.58:987][398]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.02.01-06.03.58:987][398]LogSavePackage: Moving '../../../../../../Users/johnj/GitHub/john-wolf/FIEA_SkillsTest/Saved/BP_ThirdPersonCharacter522C280C4A0A850C695950B0989E6A64.tmp' to '../../../../../../Users/johnj/GitHub/john-wolf/FIEA_SkillsTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.02.01-06.03.58:997][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.269 ms (total: 492.713 ms)
+[2025.02.01-06.03.59:022][398]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.01-06.03.59:022][398]LogContentValidation: Enabled validators:
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.01-06.03.59:022][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.01-06.03.59:022][398]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.02.01-06.04.00:021][466]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.02.01-06.04.00:029][466]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.02.01-06.04.00:033][466]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.01-06.04.00:033][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.01-06.04.00:099][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
