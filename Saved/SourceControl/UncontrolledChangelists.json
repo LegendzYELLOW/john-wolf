@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/johnj/GitHub/john-wolf/Content/MyProject/Level.umap",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Core/BP_Bullet.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Core/BP_AI.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character1.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/InfimaGames/FreeFPSTemplate/Core/BP_AI_Base.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/QuantumCharacter/Mesh/SK_Military_Character_Skeleton.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/Level.umap",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_0023CDD9.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_05153B6C.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/BP_AI_Base.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/Stairs_304E9082.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_30E9D444.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_F0F1C496.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_F7E0C5E3.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/Stairs_57A62155.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_06FD4496.uasset",
+				"C:/Users/johnj/UnrealProjects/FreeFPSTemplateTutorial/Content/MyProject/_GENERATED/johnj/CubeGridToolOutput_BD8D6928.uasset"
+			]
+		}
+	]
+}
